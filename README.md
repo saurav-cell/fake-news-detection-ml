@@ -27,3 +27,5 @@ Open and run the notebook `FakeNewsDetection.ipynb` cell by cell.
 
 ## Note
 This project is intended for learning and academic purposes.
+## Dataset
+Dataset download links and instructions are available in `DATASETS.md`.
